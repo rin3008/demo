@@ -1,0 +1,16 @@
+.container_services {
+    padding: 0 10%; 
+    font-size: 20px; 
+    text-align: justify;
+}
+.container_services h3 {
+    color: rgba(41, 41, 241, 0.863);
+}
+.container_services p {
+    text-transform: none;
+    padding: 5px 0;
+}
+.container_services p img{
+    display: block;
+    margin: auto;
+}
